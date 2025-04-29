@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vic\\projects\\taskAPI\\taskAPI\\Todo.Domain\\Todo.Domain.csproj": {}
+    "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Todo.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vic\\projects\\taskAPI\\taskAPI\\Todo.Domain\\Todo.Domain.csproj": {
+    "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Todo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vic\\projects\\taskAPI\\taskAPI\\Todo.Domain\\Todo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Todo.Domain.csproj",
         "projectName": "Todo.Domain",
-        "projectPath": "C:\\Users\\vic\\projects\\taskAPI\\taskAPI\\Todo.Domain\\Todo.Domain.csproj",
+        "projectPath": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Todo.Domain.csproj",
         "packagesPath": "C:\\Users\\vic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vic\\projects\\taskAPI\\taskAPI\\Todo.Domain\\obj\\",
+        "outputPath": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
