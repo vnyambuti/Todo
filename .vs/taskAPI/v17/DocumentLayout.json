@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\vic\\projects\\Todo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FC7AFF2E-C9FF-4015-B486-6B15FD6F42AC}|Todo.Infrastructure\\Todo.Infrastructure.csproj|c:\\users\\vic\\projects\\todo\\todo.infrastructure\\repositories\\baserepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7AFF2E-C9FF-4015-B486-6B15FD6F42AC}|Todo.Infrastructure\\Todo.Infrastructure.csproj|solutionrelative:todo.infrastructure\\repositories\\baserepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7AFF2E-C9FF-4015-B486-6B15FD6F42AC}|Todo.Infrastructure\\Todo.Infrastructure.csproj|c:\\users\\vic\\projects\\todo\\todo.infrastructure\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7AFF2E-C9FF-4015-B486-6B15FD6F42AC}|Todo.Infrastructure\\Todo.Infrastructure.csproj|solutionrelative:todo.infrastructure\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7AFF2E-C9FF-4015-B486-6B15FD6F42AC}|Todo.Infrastructure\\Todo.Infrastructure.csproj|c:\\users\\vic\\projects\\todo\\todo.infrastructure\\configurations\\todoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7AFF2E-C9FF-4015-B486-6B15FD6F42AC}|Todo.Infrastructure\\Todo.Infrastructure.csproj|solutionrelative:todo.infrastructure\\configurations\\todoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\contracts\\updatetodoitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\contracts\\updatetodoitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\contracts\\updatetodocategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\contracts\\updatetodocategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\contracts\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\contracts\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\contracts\\createtodorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\contracts\\createtodorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\contracts\\createtodocategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\contracts\\createtodocategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\contracts\\categoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\contracts\\categoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC7AFF2E-C9FF-4015-B486-6B15FD6F42AC}|Todo.Infrastructure\\Todo.Infrastructure.csproj|c:\\users\\vic\\projects\\todo\\todo.infrastructure\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC7AFF2E-C9FF-4015-B486-6B15FD6F42AC}|Todo.Infrastructure\\Todo.Infrastructure.csproj|solutionrelative:todo.infrastructure\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC7AFF2E-C9FF-4015-B486-6B15FD6F42AC}|Todo.Infrastructure\\Todo.Infrastructure.csproj|c:\\users\\vic\\projects\\todo\\todo.infrastructure\\context\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC7AFF2E-C9FF-4015-B486-6B15FD6F42AC}|Todo.Infrastructure\\Todo.Infrastructure.csproj|solutionrelative:todo.infrastructure\\context\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\contracts\\createtodocategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\contracts\\createtodocategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC7AFF2E-C9FF-4015-B486-6B15FD6F42AC}|Todo.Infrastructure\\Todo.Infrastructure.csproj|c:\\users\\vic\\projects\\todo\\todo.infrastructure\\todo.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -27,36 +67,8 @@
       "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\contracts\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\contracts\\createtodorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\contracts\\createtodorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4F9B0E00-9C06-47E4-9B62-5A8283E86622}|TASKAPI\\TASKAPI.csproj|c:\\users\\vic\\projects\\todo\\taskapi\\taskapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4F9B0E00-9C06-47E4-9B62-5A8283E86622}|TASKAPI\\TASKAPI.csproj|solutionrelative:taskapi\\taskapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\contracts\\updatetodoitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\contracts\\updatetodoitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\contracts\\updatetodocategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\contracts\\updatetodocategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\contracts\\categoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\contracts\\categoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\contracts\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\contracts\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|solutionrelative:todo.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A36BD97-DABC-4827-8F2A-C6C25401C75C}|Todo.Domain\\Todo.Domain.csproj|c:\\users\\vic\\projects\\todo\\todo.domain\\contracts\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,24 +90,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Infrastructure\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Todo.Infrastructure\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\vic\\projects\\Todo\\Todo.Infrastructure\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Todo.Infrastructure\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:49:58.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BaseRepositoy.cs",
+              "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Infrastructure\\Repositories\\BaseRepositoy.cs",
+              "RelativeDocumentMoniker": "Todo.Infrastructure\\Repositories\\BaseRepositoy.cs",
+              "ToolTip": "C:\\Users\\vic\\projects\\Todo\\Todo.Infrastructure\\Repositories\\BaseRepositoy.cs",
+              "RelativeToolTip": "Todo.Infrastructure\\Repositories\\BaseRepositoy.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:10:49.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Infrastructure\\Configurations\\TodoConfiguration.cs",
+              "RelativeDocumentMoniker": "Todo.Infrastructure\\Configurations\\TodoConfiguration.cs",
+              "ToolTip": "C:\\Users\\vic\\projects\\Todo\\Todo.Infrastructure\\Configurations\\TodoConfiguration.cs",
+              "RelativeToolTip": "Todo.Infrastructure\\Configurations\\TodoConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T01:09:06.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CategoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Infrastructure\\Configurations\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "Todo.Infrastructure\\Configurations\\CategoryConfiguration.cs",
               "ToolTip": "C:\\Users\\vic\\projects\\Todo\\Todo.Infrastructure\\Configurations\\CategoryConfiguration.cs",
               "RelativeToolTip": "Todo.Infrastructure\\Configurations\\CategoryConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T02:46:29.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "TodoDbContext.cs",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Infrastructure\\Context\\TodoDbContext.cs",
               "RelativeDocumentMoniker": "Todo.Infrastructure\\Context\\TodoDbContext.cs",
@@ -103,12 +154,11 @@
               "RelativeToolTip": "Todo.Infrastructure\\Context\\TodoDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T02:35:48.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T02:35:48.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "UpdateTodoItemRequest.cs",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Contracts\\UpdateTodoItemRequest.cs",
               "RelativeDocumentMoniker": "Todo.Domain\\Contracts\\UpdateTodoItemRequest.cs",
@@ -121,13 +171,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "TodoItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Contracts\\TodoItemDTO.cs",
               "RelativeDocumentMoniker": "Todo.Domain\\Contracts\\TodoItemDTO.cs",
               "ToolTip": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Contracts\\TodoItemDTO.cs",
               "RelativeToolTip": "Todo.Domain\\Contracts\\TodoItemDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T22:59:15.726Z",
               "EditorCaption": ""
@@ -147,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "UpdateTodoCategoryRequest.cs",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Contracts\\UpdateTodoCategoryRequest.cs",
               "RelativeDocumentMoniker": "Todo.Domain\\Contracts\\UpdateTodoCategoryRequest.cs",
@@ -160,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "ErrorResponse.cs",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Contracts\\ErrorResponse.cs",
               "RelativeDocumentMoniker": "Todo.Domain\\Contracts\\ErrorResponse.cs",
@@ -168,25 +218,24 @@
               "RelativeToolTip": "Todo.Domain\\Contracts\\ErrorResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T22:50:26.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T22:50:26.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CreateTodoRequest.cs",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Contracts\\CreateTodoRequest.cs",
               "RelativeDocumentMoniker": "Todo.Domain\\Contracts\\CreateTodoRequest.cs",
               "ToolTip": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Contracts\\CreateTodoRequest.cs",
               "RelativeToolTip": "Todo.Domain\\Contracts\\CreateTodoRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T22:43:42.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "CreateTodoCategoryRequest.cs",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Contracts\\CreateTodoCategoryRequest.cs",
               "RelativeDocumentMoniker": "Todo.Domain\\Contracts\\CreateTodoCategoryRequest.cs",
@@ -199,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Contracts\\ApiResponse.cs",
               "RelativeDocumentMoniker": "Todo.Domain\\Contracts\\ApiResponse.cs",
@@ -207,12 +256,11 @@
               "RelativeToolTip": "Todo.Domain\\Contracts\\ApiResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T22:27:36.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T22:27:36.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Todo.Domain\\Entities\\Category.cs",
@@ -225,20 +273,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Entities\\TodoItem.cs",
               "RelativeDocumentMoniker": "Todo.Domain\\Entities\\TodoItem.cs",
               "ToolTip": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Entities\\TodoItem.cs",
               "RelativeToolTip": "Todo.Domain\\Entities\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T10:04:45.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Todo.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Domain\\Todo.Domain.csproj",
               "RelativeDocumentMoniker": "Todo.Domain\\Todo.Domain.csproj",
@@ -246,12 +294,11 @@
               "RelativeToolTip": "Todo.Domain\\Todo.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-15T10:04:07.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T10:04:07.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "TASKAPI.csproj",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\TASKAPI\\TASKAPI.csproj",
               "RelativeDocumentMoniker": "TASKAPI\\TASKAPI.csproj",
@@ -259,12 +306,11 @@
               "RelativeToolTip": "TASKAPI\\TASKAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-15T09:54:15.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T09:54:15.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Todo.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Infrastructure\\Todo.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Todo.Infrastructure\\Todo.Infrastructure.csproj",
@@ -272,12 +318,11 @@
               "RelativeToolTip": "Todo.Infrastructure\\Todo.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-15T09:49:20.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T09:49:20.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Todo.Application.csproj",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Application\\Todo.Application.csproj",
               "RelativeDocumentMoniker": "Todo.Application\\Todo.Application.csproj",
@@ -285,12 +330,11 @@
               "RelativeToolTip": "Todo.Application\\Todo.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-15T09:49:00.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T09:49:00.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\vic\\projects\\Todo\\Todo.Application\\Class1.cs",
               "RelativeDocumentMoniker": "Todo.Application\\Class1.cs",
@@ -298,8 +342,7 @@
               "RelativeToolTip": "Todo.Application\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T09:45:24.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T09:45:24.905Z"
             }
           ]
         }
