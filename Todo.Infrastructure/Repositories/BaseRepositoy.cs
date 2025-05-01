@@ -48,9 +48,18 @@ namespace Todo.Infrastructure.Repositories
            return await _dbSet.FindAsync(id);
         }
 
-        public Task<IEnumerable<T>> SearchAsync(string searchTerm)
+        public async Task<IEnumerable<T>> SearchAsync(string searchTerm)
         {
-            throw new NotImplementedException();
+            if (typeof(T) == typeof(TodoItem))
+            {
+                return await _dbContext.Set<TodoItem>().Include(t => t.Category).Where(b => EF.Functions.Like(b.Title, $"%{searchTerm}%")).Cast<T>().ToListAsync();
+            }
+            else
+            {
+                throw new InvalidOperationException("Nothing found");
+            }
+
+                
         }
 
         public async Task<T> UpdateAsync(T entity)
